@@ -1,0 +1,3 @@
+export const GET_CIRCLE = "GET_CIRCLE";
+export const GET_CIRCLE_SUCCESS = "GET_CIRCLE_SUCCESS";
+export const GET_CIRCLE_FAIL = "GET_CIRCLE_FAIL";

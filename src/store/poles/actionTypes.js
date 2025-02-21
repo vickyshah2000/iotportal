@@ -1,0 +1,12 @@
+/* TASKS */
+export const GET_POLES = "GET_POLES";
+export const GET_POLES_SUCCESS = "GET_POLES_SUCCESS";
+export const GET_POLES_FAIL = "GET_POLES_FAIL";
+
+export const CHANGE_PAGE_SIZE = "CHANGE_PAGE_SIZE";
+export const CHANGE_PAGE_NUMBER = "CHANGE_PAGE_NUMBER";
+
+export const CHANGE_SORT = "CHANGE_SORT";
+export const CHANGE_SEARCH_TEXT = "CHANGE_SEARCH_TEXT";
+
+export const CHANGE_NOTI_TYPE = "CHANGE_NOTI_TYPE";
